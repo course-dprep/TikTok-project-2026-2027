@@ -1,0 +1,6 @@
+# Ignore all generated figures
+fig_outputs/
+
+# Ignore files
+*.pdf
+*.csv
